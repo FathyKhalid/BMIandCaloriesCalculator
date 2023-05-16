@@ -5,6 +5,6 @@ The main objective of the program is to help users determine their BMI and the n
 
 ![image](https://github.com/FathyKhalid/BMIandCaloriesCalculator/assets/85445784/8ab7a77f-df98-4b51-bdf8-b79788319994)
 
-##Output Test
+## Output Test
 
 ![image](https://github.com/FathyKhalid/BMIandCaloriesCalculator/assets/85445784/a92143be-ab89-4b8b-afd3-d6e62623ca15)
